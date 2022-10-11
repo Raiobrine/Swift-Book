@@ -10,13 +10,13 @@ print("Hello, world!")
 // Imprime "Hello, world!"
 ```
 
-Se você escreveu código em C ou Objective-C, esta sintaxe pode parece familiar pra voce, esta linha de código é um programa completo. Você não precisa importar uma biblioteca separada para funcionalidades como input output ou manipulação de string. Código escrito no escopo global é usado como um ponto de entrada para o programa, então você não precisa de uma função `main()`. Você também não precisa escrever ponto e virgula no final de cada declaração.
+Se você escreveu código em C ou Objective-C, esta sintaxe pode parece familiar pra você, esta linha de código é um programa completo. Você não precisa importar uma biblioteca separada para funcionalidades como input output ou manipulação de string. Código escrito no escopo global é usado como um ponto de entrada para o programa, então você não precisa de uma função `main()`. Você também não precisa escrever ponto e virgula no final de cada declaração.
 
 Esta tour lhe dará informação suficiente para começar a escrever código em Swift mostrando como concluir uma variedade de tarefas de programação. Não se preocupe se você não entender alguma coisa introduzida nessa Tour, pois será explicado em mais detalhes no resto desse livro.
 
 **Nota**
 
-> Em um Mac com Xcode instalado, ou em um iPad com Swift Playgrounds, você pode abrir esse capítulo como um playground. Playgrounds possibilita voce editar o código listings e ver os resultados imediatamente.
+> Em um Mac com Xcode instalado, ou em um iPad com Swift Playgrounds, você pode abrir esse capítulo como um playground. Playgrounds possibilita você editar o código listings e ver os resultados imediatamente.
 
 [Baixar Playground](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.playground.zip)
 
@@ -67,7 +67,7 @@ let fruitSummary = "Eu tenho \(apples + oranges) pedaços de frutas."
 
 **Experimente**
 
-> Use `\()` para fazer um cálculo do tipo *Float* em uma *string* e coloque o nome de algúem em uma saudação.
+> Use `\()` para fazer um cálculo do tipo *Float* em uma *string* e coloque o nome de alguém em uma saudação.
 
 Use três aspas duplas (`"""`) para *strings* que ocupem várias linhas. A indentação no começo de cada linha é removida, desde que corresponda à indentação das aspas finais.
 Por exemplo:
