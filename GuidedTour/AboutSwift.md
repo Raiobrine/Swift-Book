@@ -23,6 +23,6 @@ Swift resolve grandes classes de erros de programação comuns adotando padrões
 
 Código em Swift é compilado e otimizado para aproveitar ao máximo o *hardware* moderno. A sintaxe e a biblioteca padrão foram projetadas com base no princípio orientador de que a maneira óbvia de escrever seu código também deve ter o melhor desempenho. Sua combinação de segurança e velocidade faz Swift uma excelente opção para tudo, desde *"Hello, World!"* a todo o sistema operacional.
 
-Swift combina poderosa inferência de tipos e correspondência de padrões com uma sintaxe moderna e leve, permitindo que idéias complexas sejam expressas de maneira clara e concisa. Como resultado, o código não é apenas mais fácil de escrever, mas também mais fácil de ler e manter.
+Swift combina poderosa inferência de tipos e correspondência de padrões com uma sintaxe moderna e leve, permitindo que ideias complexas sejam expressas de maneira clara e concisa. Como resultado, o código não é apenas mais fácil de escrever, mas também mais fácil de ler e manter.
 
 Swift vem sendo desenvolvida por anos, e continua a evoluir com novas funcionalidade e capacidade. Mal podemos esperar para ver o que você cria com ela.  -->
